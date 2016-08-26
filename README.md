@@ -5,4 +5,4 @@ Git学习远程clone
 ##新增冲突解决
 Creating a &&& branch is quick AND simple.
 
-##New合并分支
+##New合并冲突分支
